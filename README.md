@@ -32,6 +32,11 @@ Installation documentation can be found [here](https://dev.yacht.sh/docs/Install
 
 Check out the getting started guide if this is the first time you've used Yacht: [dev.yacht.sh/docs/Installation/Getting_Started](https://dev.yacht.sh/docs/Installation/Getting_Started)
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Yacht/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://marketplace.digitalocean.com/apps/yacht"><img src="https://www.deploytodo.com/do-btn-blue.svg" alt="Deploy on DigitalOcean" height="42"></a>
+
 ## Agent Architecture
 
 The main Yacht container is the control plane. It hosts the web UI, API, auth, and database.
